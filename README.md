@@ -3,7 +3,7 @@
 > **Módulo 5 — DevOps y Automatización del SDLC**  
 > **UTEC Posgrado | Arquitectura de Soluciones Multinube**  
 > **Docente:** Aldo Trucios
-> **Alumno:** Victor Cassana
+> **Alumno:**  Victor Cassana
 ---
 
 ## 📋 Descripción
